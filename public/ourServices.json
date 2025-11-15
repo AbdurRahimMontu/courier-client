@@ -1,0 +1,34 @@
+
+[
+
+    {
+        "image": "https://i.ibb.co.com/mVsLPcG2/courier-Man.jpg",
+        "title" : "Express & Standard Delivery",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam optio consequatur suscipit voluptatum magni libero voluptatibus doloremque aut tenetur nihil, error incidunt? Saepe quaerat ullam ab totam voluptatem eveniet."
+    },
+    {
+        "image": "https://i.ibb.co.com/mVsLPcG2/courier-Man.jpg",
+        "title" : "NationWide Delivery",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam optio consequatur suscipit voluptatum magni libero voluptatibus doloremque aut tenetur nihil, error incidunt? Saepe quaerat ullam ab totam voluptatem eveniet."
+    },
+    {
+        "image": "https://i.ibb.co.com/mVsLPcG2/courier-Man.jpg",
+        "title" : "Fulfillment Solution",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam optio consequatur suscipit voluptatum magni libero voluptatibus doloremque aut tenetur nihil, error incidunt? Saepe quaerat ullam ab totam voluptatem eveniet."
+    },
+    {
+        "image": "https://i.ibb.co.com/mVsLPcG2/courier-Man.jpg",
+        "title" : "Cash on Home Delivery ",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam optio consequatur suscipit voluptatum magni libero voluptatibus doloremque aut tenetur nihil, error incidunt? Saepe quaerat ullam ab totam voluptatem eveniet."
+    },
+    {
+        "image": "https://i.ibb.co.com/mVsLPcG2/courier-Man.jpg",
+        "title" : "Corporate Service / Contact In Logistics",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam optio consequatur suscipit voluptatum magni libero voluptatibus doloremque aut tenetur nihil, error incidunt? Saepe quaerat ullam ab totam voluptatem eveniet."
+    },
+    {
+        "image": "https://i.ibb.co.com/mVsLPcG2/courier-Man.jpg",
+        "title" : "Parcel Return ",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam optio consequatur suscipit voluptatum magni libero voluptatibus doloremque aut tenetur nihil, error incidunt? Saepe quaerat ullam ab totam voluptatem eveniet."
+    }
+]
